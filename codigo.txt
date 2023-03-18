@@ -1,0 +1,7 @@
+if(calificacion <= 60) {
+cout <<"aprobado";
+} else if(calificacion > 60 && calificacion <= 80) {
+cout <<"aprobado con una calificacion de 60 - 80";
+} else {
+cout <<"aprobado con una calificacion de 80 - 100";
+}
